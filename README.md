@@ -27,7 +27,7 @@ Agora, realize a instalação das dependências:
   pip install -r requirements.txt
   ```
 
-### Executar Projeto
+### Executar API
 
 Execute na raiz do projeto:
   
@@ -38,6 +38,10 @@ Execute na raiz do projeto:
   ```
 
 Pronto! A API estará disponível em [localhost:5000](localhost:5000)
+
+### Executar Testes
+
+Execute o arquivo `app_test.py`. **Todos os testes devem passar.**
 
 ## Rotas
 
